@@ -21,7 +21,7 @@ Hawkeye là ứng dụng du lịch dành cho những ai yêu thích khám phá. 
 - Tải Android Studio từ developer.android.com
 - Cài đặt Android SDK (cần phiên bản SDK 33 trở lên)
 - Clone repo từ GitHub: 
-   git clone https://github.com/vuhuyen1523/hawkeye-travel-app.git
+   git clone https://github.com/vuhuyen1523/Mobile.git
    cd hawkeye-travel-app
    npm install
 - Chạy ứng dụng React Native CLI: npx react-native run-android
